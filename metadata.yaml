@@ -1,0 +1,44 @@
+_repo: Climatic-Changes--Their-Nature-and-Causes_37855
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Visher, Stephen Sargent
+    birthdate: 1887
+    deathdate: 1967
+    gutenberg_agent_id: '39094'
+    url: http://www.gutenberg.org/2009/agents/39094
+  - agent_name: Huntington, Ellsworth
+    alias: Huntington, E. (Ellsworth)
+    birthdate: 1876
+    deathdate: 1947
+    gutenberg_agent_id: '1106'
+    url: http://www.gutenberg.org/2009/agents/1106
+    wikipedia: http://en.wikipedia.org/wiki/Ellsworth_Huntington
+description: ''
+gutenberg_issued: '2011-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37855'
+  lccn: '22020363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paleoclimatology'
+- !lcc 'QC'
+- !lcsh 'Climatology'
+- !lcsh 'Climatic changes'
+tableOfContents: The uniformity of climate -- The variability of climate -- Hypotheses
+  of climatic change -- The solar cyclonic hypothesis -- The climate of history --
+  The climatic stress of the fourteenth century -- Glaciation according to the solar
+  cyclonic hypothesis -- Some problems of glacial periods -- The origin of loess --
+  Causes of mild geological climates -- Terrestrial causes of climatic changes --
+  Post-glacial crustal movements and climatic changes -- The changing composition
+  of oceans and atmosphere -- The effect of other bodies on the sun -- The sun's journey
+  through space -- The earth's crust and the sun.
+title: 'Climatic Changes: Their Nature and Causes'
+url: http://www.gutenberg.org/ebooks/37855
