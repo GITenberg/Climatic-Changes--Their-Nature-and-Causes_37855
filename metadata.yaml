@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1106
     wikipedia: http://en.wikipedia.org/wiki/Ellsworth_Huntington
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37855#Climatic-Changes--Their-Nature-and-Causes
 gutenberg_issued: '2011-10-26'
 gutenberg_type: Text
 identifiers:
